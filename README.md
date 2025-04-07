@@ -4,6 +4,8 @@
 
 [A Business Analyst’s Introduction to Business Analytics](https://www.causact.com/)
 
+[A First Course on Data Structures in Python](https://donsheehy.github.io/datastructures)
+
 [A First Course in Monte Carlo Methods](https://arxiv.org/abs/2405.16359)
 
 [A First Course in Partial Differential Equations](https://people.uncw.edu/hermanr/pde1/PDE1notes/index.htm)
