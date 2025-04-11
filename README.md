@@ -427,6 +427,8 @@ https://math.libretexts.org/Bookshelves/Differential_Equations/Introduction_to_P
 
 [Probability & Statistics with Applications to Computing](https://www.alextsun.com/files/Prob_Stat_for_CS_Book.pdf) 
 
+[Probability for Computer Scientists](https://chrispiech.github.io/probabilityForComputerScientists/en/index.html)
+
 [Probability for Data Science](https://probability4datascience.com/)      
 
 [Probability: Theory and Examples](https://services.math.duke.edu/~rtd/PTE/pte.html)
