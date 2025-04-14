@@ -374,6 +374,8 @@ https://math.libretexts.org/Bookshelves/Differential_Equations/Introduction_to_P
 
 [Network Science](http://networksciencebook.com/)
 
+[Neuronal Dynamics](https://neuronaldynamics.epfl.ch/index.html)
+
 [Neural Networks for Chess](https://arxiv.org/abs/2209.01506)
 
 [Nonequilibrium and Irreversibility](https://arxiv.org/abs/2501.12426)
