@@ -80,6 +80,7 @@
 
 [Bayes Rules](https://www.bayesrulesbook.com/)     
 
+[Brownian Motion](https://www.mi.uni-koeln.de/~moerters/book/book.pdf)
 
 
 
