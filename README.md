@@ -18,6 +18,8 @@
 
 [Advanced Differential Equations: Asymptotics & Perturbations](https://arxiv.org/abs/2012.14591)
 
+[Advanced Linear Algebra](https://arxiv.org/abs/2506.18666)
+
 [Algorithmic Game Theory ](https://www.cs.cmu.edu/~sandholm/cs15-892F13/algorithmic-game-theory.pdf) 
 
 [Algorithmic High-Dimensional Robust Statistics](https://sites.google.com/view/ars-book/)
