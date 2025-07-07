@@ -430,6 +430,8 @@ https://math.libretexts.org/Bookshelves/Differential_Equations/Introduction_to_P
 
 [Probabilistic Numerics](https://www.probabilistic-numerics.org/textbooks/)    
 
+[Probability and Statistics for Data Science](https://www.ps4ds.net/)
+
 [Probability & Statistics with Applications to Computing](https://www.alextsun.com/files/Prob_Stat_for_CS_Book.pdf) 
 
 [Probability for Computer Scientists](https://chrispiech.github.io/probabilityForComputerScientists/en/index.html)
