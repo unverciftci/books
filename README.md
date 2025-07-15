@@ -90,7 +90,9 @@
 
 [Calculus: early transcendentals](https://www.whitman.edu/mathematics/calculus_online)
 
-[Calculus with Julia Notes](https://jverzani.github.io/CalculusWithJuliaNotes.jl/)           
+[Calculus with Julia Notes](https://jverzani.github.io/CalculusWithJuliaNotes.jl/)      
+
+[Causal Artificial Intelligence](https://causalai-book.net/)
 
 [Causal Inference: A Statistical Learning Approach](https://web.stanford.edu/~swager/causal_inf_book.pdf)
 
