@@ -336,6 +336,8 @@ https://math.libretexts.org/Bookshelves/Differential_Equations/Introduction_to_P
 
 [Mathematics for Computer Science](https://commons.libretexts.org/book/eng-43989)
 
+[Mathematics in Lean](https://leanprover-community.github.io/mathematics_in_lean/)
+
 [Mathematical Foundations of Reinforcement Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
 
 
