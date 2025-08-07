@@ -314,6 +314,8 @@ https://math.libretexts.org/Bookshelves/Differential_Equations/Introduction_to_P
 
 [Linear Algebra Essence & Form](https://www2.math.upenn.edu/~ghrist/preprints/LAEF.pdf)
 
+[ Linear Algebra in Data Science](https://link.springer.com/book/10.1007/978-3-031-54908-3)
+
 [Linear Algebra, Theory And Application](https://klkuttler.com/book/Linearalgebra/1)
 
 [Log-Concave Sampling](https://chewisinho.github.io/main.pdf)        
