@@ -142,7 +142,7 @@
 [Deep Learning Theory](https://deeplearningtheory.com/)        
 
 
-[Deep Learning with PyTorch](https://www.tomasbeuzen.com/deep-learning-with-pytorch)      
+[Deep Learning with Pyton](https://deeplearningwithpython.io/)      
 
 [Differential Equations (Chasnov)](https://math.libretexts.org/Bookshelves/Differential_Equations/Differential_Equations_(Chasnov))
 
