@@ -148,6 +148,8 @@
 
 [ Differential Geometry: From Elastic Curves to Willmore Surfaces ](https://olligross.github.io/projects/DGCS/DGCS_project.html)
 
+[Differential Privacy in Artificial Intelligence: From Theory to Practice](https://www.nowpublishers.com/article/BookDetails/9781638284765)
+
 [Digital Signals Theory](https://brianmcfee.net/dstbook-site/content/intro.html)
 
 [Discover Linear Algebra](https://people.cs.uchicago.edu/~laci/HANDOUTS/linalgbook.pdf)
