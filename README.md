@@ -545,6 +545,8 @@ https://math.libretexts.org/Bookshelves/Differential_Equations/Introduction_to_P
 
 [The Mechanics of Proof](https://hrmacbeth.github.io/math2001)
 
+[The Philosophy and Physics of Duality](https://arxiv.org/abs/2508.01616)
+
 [The Science of Algorithms](https://jeffe.cs.illinois.edu/teaching/algorithms/)      
 
 [The Systems Bible](https://book.systemsapproach.org/)                             
