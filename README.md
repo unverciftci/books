@@ -521,6 +521,8 @@ https://math.libretexts.org/Bookshelves/Differential_Equations/Introduction_to_P
 
 [Spatial Statistics for Data Science](https://www.paulamoraga.com/book-spatial/) 
 
+[State Estimation for Robotics](http://asrl.utias.utoronto.ca/~tdb/bib/barfoot_ser24.pdf)
+
 [State Space Models: A Modern Approach](https://probml.github.io/ssm-book/root.html)
 
 [Statistical optimal transport](https://arxiv.org/abs/2407.18163)
