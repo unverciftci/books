@@ -205,6 +205,8 @@
 
 [Game Theory](https://faculty.econ.ucdavis.edu/faculty/bonanno/PDF/GT_book.pdf)
 
+[Geocomputation with Python](https://py.geocompx.org/)
+
 [Geospatial Data Science with Leafmap](https://book.leafmap.org/index.html)
 
 [Gödel’s Theorems](https://www.logicmatters.net/igt/)
